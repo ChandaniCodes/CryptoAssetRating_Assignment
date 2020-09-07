@@ -1,3 +1,3 @@
 # UI-UX_Assignment
-
-This is a demo webpage for Crypto Asset Raiting. I used HTML5, CSS3, BOOTSTRAP.
+This is an assignment which was given by Crypto Asset Rating company(U.S based Company)
+I developed this webpage using HTML5, CSS3, BOOTSTRAP 3.
